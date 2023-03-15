@@ -1,0 +1,69 @@
+b
+{
+  font-size: 15px;
+
+ }
+ h1{
+ font-family: "Lucida Console";
+ color:lightsalmon;
+ }
+body
+{
+    background-color:darkgrey;
+}
+
+input{
+    height:25px;
+}
+
+ div.one
+{
+width: 80%;
+border-radius: 1px;  
+padding: 8px;
+background-color: rgba(0,0,0,0.5);
+margin-left:10%;
+
+}  
+
+
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  margin-left: 330px;
+}
+
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+
+.button2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid#4CAF50;
+    margin-left: 50px;
+  }
+  
+  .button2:hover {
+    background-color:#4CAF50;
+    color: white;
+  }
+  

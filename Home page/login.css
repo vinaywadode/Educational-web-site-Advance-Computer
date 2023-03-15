@@ -1,0 +1,39 @@
+h1
+             {
+                font-family: Tahoma, sans-serif;
+             }
+             h3
+             {
+                font-weight: bold;
+                color:white;
+             }
+             div
+             {
+                width:30%;
+                height:230px;
+                border-radius:1px;  
+                padding: 20px;
+                background-color:rgba(0,0,0,0.5);
+                left: 390px;
+                top: 140px;  
+                position: absolute; 
+             }
+            
+             .button1 {
+              background-color:white; 
+              color: black; 
+              border: 2px solid #4CAF50;
+              padding: 11px 22px;
+              text-align: center;
+              text-decoration: none;
+              display: inline-block;
+              font-size: 14px;
+              margin: 9px 2px;
+              transition-duration: 0.2s;
+              cursor: pointer;
+              margin-left:60px;
+              }
+               .button1:hover {
+               background-color: #4CAF50;
+               color:black;
+               }
